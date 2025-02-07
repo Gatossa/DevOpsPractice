@@ -18,8 +18,8 @@
  -Express.js, EJS
  -REST, APIs
 5. Databases (SQL,PostgreSQL)
-6.Authentication
-7.React.js, React Hooks
+6. Authentication
+7. React.js, React Hooks
 8. Web Design
 9. Deployment with GitHub Pages
 10. Web3 Development on the Internet Computer
