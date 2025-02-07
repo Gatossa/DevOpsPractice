@@ -1,4 +1,4 @@
-# This repository is not to learn but to be acquainted with this field of knowledge😉
+# This repository is not to learn how to be a developer but to be acquainted with this field of knowledge😉
 
 ## Learning is based on the course from Udemy created by dr Angela Wu.
 
